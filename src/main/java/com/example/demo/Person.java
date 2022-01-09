@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 @Getter
 @AllArgsConstructor
 @NoArgsConstructor
-public class ModelPerson {
+public class Person {
 
   private String name;
   private int age;
